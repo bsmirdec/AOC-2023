@@ -1,0 +1,41 @@
+# Fichiers système
+__pycache__/
+
+# Fichiers d'environnement
+.env
+
+# Fichiers de compilation
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+
+# Fichiers de distribution
+dist/
+build/
+
+# Fichiers de configuration locaux
+*.sqlite3
+*.swp
+
+# Répertoires de virtualenv
+venv/
+
+# Fichier de configuration Python
+pyvenv.cfg
+
+# Fichiers de cache pour pytest
+.cache/
+
+# Fichiers de log
+*.log
+
+# Fichiers de sauvegarde
+*~
+
+# Dépendances
+*.egg-info/
+*.egg
+
+#flake8
+.flake8
