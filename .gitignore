@@ -20,6 +20,7 @@ build/
 
 # Répertoires de virtualenv
 venv/
+env/
 
 # Fichier de configuration Python
 pyvenv.cfg

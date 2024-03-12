@@ -1,4 +1,4 @@
-from objects import Games, Picks
+from model import Games, Picks
 
 
 def create_game(txt):
